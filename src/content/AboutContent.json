@@ -1,0 +1,16 @@
+{
+  "title": "Master Angular & AI Development from the Ground Up",
+  "text": "Our well-structured curriculum takes you from a novice to a skilled Angular and AI developer. You’ll work on real-world projects, receive personalized mentorship, and gain the expertise needed to excel in the tech industry.",
+  "section": [
+    {
+      "title": "Why Choose Angular?",
+      "content": "Angular is a leading framework for developing dynamic, responsive web applications. Its large community and rich ecosystem provide excellent tools and resources for building high-quality apps.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why Focus on AI?",
+      "content": "Artificial Intelligence is reshaping industries across the globe. Mastering AI allows you to build smart, intuitive applications that can revolutionize the way businesses operate.",
+      "icon": "notes.svg"
+    }
+  ]
+}
